@@ -1,11 +1,11 @@
-package starter.stepdefinitions;
+package starter.put.stepdefinitions.positive;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import net.thucydides.core.annotations.Steps;
-import starter.user.UpdateUser;
+import starter.put.user.positive.UpdateUser;
 
 public class UpdateSteps {
     @Steps

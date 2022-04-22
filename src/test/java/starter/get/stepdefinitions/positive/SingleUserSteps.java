@@ -1,11 +1,11 @@
-package starter.stepdefinitions;
+package starter.get.stepdefinitions.positive;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import net.thucydides.core.annotations.Steps;
-import starter.user.GetSingleUser;
+import starter.get.user.positive.GetSingleUser;
 
 public class SingleUserSteps {
     @Steps

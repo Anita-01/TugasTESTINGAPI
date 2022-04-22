@@ -1,10 +1,10 @@
-package starter.stepdefinitions;
+package starter.delete.stepdefinitions.positive;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import net.thucydides.core.annotations.Steps;
-import starter.user.DeleteUser;
+import starter.delete.user.positive.DeleteUser;
 
 public class DeleteSteps {
     @Steps
